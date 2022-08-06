@@ -56,7 +56,7 @@ public class SsoUserTestResource {
 //            return new ResponseEntity<>(resp, HttpStatus.INTERNAL_SERVER_ERROR);
         }
 
-        return new ResponseEntity<>(resp, HttpStatus.ACCEPTED);
+        return new ResponseEntity<>(resp, HttpStatus.OK);
     }
     
 
