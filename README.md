@@ -22,10 +22,13 @@ Running and Testing
 2. Open http://localhost:8080/swagger-ui/index.html in browser
 3. Browser will show this page
 ![image](https://user-images.githubusercontent.com/47107710/183253227-b90a014c-a2d9-41c1-a216-cfb010e073e8.png)
+
 4. Expand sso-user-test-resource tab
 ![image](https://user-images.githubusercontent.com/47107710/183253330-a2ac0d79-d7c4-4d42-b0d8-03168df0340f.png)
+
 5. Click Try it out button
 ![image](https://user-images.githubusercontent.com/47107710/183253401-c042299b-e104-4a45-927e-2214788a3fac.png)
+
 6. insert below JSON request in Request body text area and click Execute button
     
 {
@@ -44,7 +47,9 @@ Running and Testing
       "locationMachineNumber": "CLI00000718-9999",
       "tokenId": "eyJzdWIiOiIxMjM0IiwiYXVkIjpbImFkbWluIl0sImlzcyI6Im1hc29uLm1ldGFtdWcubmV0IiwiZXhwIjoxNTc0NTEyNzY1LCJpYXQiOjE1NjY3MzY3NjUsImp0aSI6ImY3YmZlMzNmLTdiZjctNGViNC04ZTU5LTk5MTc5OWI1ZWI4YSJ9"
 }
+
 7. Response message will be shown below
 ![image](https://user-images.githubusercontent.com/47107710/183253803-00b5ee12-e3ca-489c-a3c0-eab299dd651e.png)
+
 8. Enjoy Testing ;)
 
